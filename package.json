@@ -1,0 +1,33 @@
+{
+  "name": "Hashim-codes",
+  "displayName": "Hashim-codes",
+  "description": "A Minimal elegant  Dark theme ",
+  "version": "0.0.1",
+  "publisher":"Hashimdev",
+  "engines": {
+    "vscode": "^1.71.0",
+    "repository": "",
+  },
+
+  "keywords":[
+     "Dark",
+     "Dark Theme",
+     "Minimal",
+     "Elegant theme",
+     "Elegant",
+     "Hashimcodes"
+  ],
+
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hashim codes",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Hashim codes-color-theme.json"
+      }
+    ]
+  }
+}
